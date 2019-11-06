@@ -1,0 +1,19 @@
+{
+  "name": "ico-watchlist-api",
+  "version": "9.9.9",
+  "description": "Package Moved",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "slorunner",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SloRunner/ico-watchlist-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SloRunner/ico-watchlist-api/issues"
+  },
+  "homepage": "https://github.com/SloRunner/ico-watchlist-api#readme"
+}
